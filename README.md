@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DJR2904
 - 👀 I’m interested in gaining more skills in multiple programming languages.
 - 🌱 I’m currently learning Jave and C
-- 💞️ I’m looking to collaborate on gaming, finance, or educational apps as well as improving the user experience.
+- 💞️ I’m looking to collaborate on educational apps as well as improving the user experience.
 - 📫 How to reach me ...
 
 <!---
