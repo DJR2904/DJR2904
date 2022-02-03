@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJR2904
 - 👀 I’m interested in gaining more skills in multiple programming languages.
-- 🌱 I’m currently learning Jave and C
+- 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on educational apps as well as improving the user experience.
 - 📫 How to reach me ...
 
