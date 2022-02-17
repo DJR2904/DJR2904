@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DJR2904
+- 👋 Hi, I’m @DJR3904
 - 👀 I’m interested in gaining more skills in multiple programming languages.
-- 🌱 I’m currently learning Java and C
+- 🌱 I’m currently learning Java and C : Experience with HTML, CSS, Python
 - 💞️ I’m looking to collaborate on educational apps as well as improving the user experience.
-- 📫 How to reach me ...
+
 
 <!---
 DJR2904/DJR2904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
