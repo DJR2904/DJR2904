@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJR3904
 - 👀 I’m interested in gaining more skills in multiple programming languages.
-- 🌱 I’m currently learning Java and C : Experience with HTML, CSS, Python
+- 🌱 I’m currently studying computer science: Experience with HTML, CSS, Python, JavaScript, and Java
 - 💞️ I’m looking to collaborate on educational apps as well as improving the user experience.
 
 
